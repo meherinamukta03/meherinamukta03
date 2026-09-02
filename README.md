@@ -46,6 +46,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meherinamukta03&show_icons=true&locale=en" alt="meherinamukta03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meherinamukta03&" alt="meherinamukta03" /></p>
 
