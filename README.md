@@ -13,7 +13,7 @@
 <p>🗄️ I’m interested in Backend Development.</p>
 <p>📚 I enjoy learning new technologies and improving my programming skills.</p>
 <p>🎯 My goal is to become a professional Full-Stack Web Developer.</p>
-<p>📫 Feel free to reach me out.</p>
+<p>📫 Feel free to reach me out. <a href="mailto:meherinamukta03@gmail.com">meherinamukta03@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
