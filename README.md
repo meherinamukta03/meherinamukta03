@@ -4,7 +4,15 @@
 
 <h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
 <h3 align="center">I am interested in backend development.</h3>
+<h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
 
+<p align="center"> 💻 I’m interested in Web Development. </p>
+<p align="center"> 🌱 I’m currently learning JavaScript and TypeScript. </p>
+<p align="center"> 🖥️ I’m learning HTML, CSS, React.js and Node.js. </p>
+<p align="center"> 🗄️ I’m interested in Backend Development. </p>
+<p align="center"> 📚 I enjoy learning new technologies and improving my programming skills. </p>
+<p align="center"> 🎯 My goal is to become a professional Full-Stack Web Developer. </p>
+<p align="center"> 📫 Feel free to reach me out. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/meherina.mukta.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meherina.mukta.03" height="30" width="40" /></a>
