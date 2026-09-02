@@ -42,8 +42,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-### 📚 Currently Learning
-- JavaScript
-- TypeScript
-- React.js
-- Backend Development
+<h3>📚 Currently Learning</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" />
+</p>
