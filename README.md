@@ -46,6 +46,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" />
 </p>
-##<h2> Tech Stack</h2>
+<h2> Tech Stack</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meherinamukta03&" alt="meherinamukta03" /></p>
 
