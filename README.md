@@ -5,20 +5,14 @@
 <h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
 <h3 align="center">I am interested in backend development.</h3>
 <h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
-<h1>Hi 👋, I'm Meherina Mukta</h1>
+
 
 <p>💻 I’m interested in Web Development.</p>
-
 <p>🌱 I’m currently learning JavaScript and TypeScript.</p>
-
 <p>🖥️ I’m learning HTML, CSS, React.js and Node.js.</p>
-
 <p>🗄️ I’m interested in Backend Development.</p>
-
 <p>📚 I enjoy learning new technologies and improving my programming skills.</p>
-
 <p>🎯 My goal is to become a professional Full-Stack Web Developer.</p>
-
 <p>📫 Feel free to reach me out.</p>
 
 <h3 align="left">Connect with me:</h3>
