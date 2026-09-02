@@ -1,6 +1,6 @@
 
 <!---banner--->
-<img src="C:\Users\HP\Downloads\ChatGPT Image Sep 2, 2026, 09_01_59 PM.png">
+<img src="./banner.jpg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
 <h3 align="center">I am interested in backend development.</h3>
