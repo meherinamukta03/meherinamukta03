@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**meherinamukta03/meherinamukta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
 <h3 align="center">I am interest to frontend developepment</h3>
