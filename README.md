@@ -1,6 +1,6 @@
 
 <!---banner--->
-<img src="./banner.jpg" width="100%" />
+<img src="./banner.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
 <h3 align="center">I am interested in backend development.</h3>
