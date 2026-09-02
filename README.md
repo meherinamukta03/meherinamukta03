@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
 <h3 align="center">I am interested in backend development.</h3>
-<h1 align="center">Hi 👋, I'm Meherina Mukta</h1>
+
 
 
 <p>💻 I’m interested in Web Development.</p>
